@@ -1,0 +1,1 @@
+A NoteKeeper Android App whcih uses the two Activities one is NoteListActivity which acts as launch Screen and NoteActivity which is used to edit note here i also explored the different intent features available in android such as implicit and explicit for implicit we are using the Gmail to send mail of our note Activity.
